@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1723" started-at="2022-06-13T18:19:01 IST" finished-at="2022-06-13T18:19:03 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1723" started-at="2022-06-13T18:19:01 IST" finished-at="2022-06-13T18:19:03 IST">
+      <class name="practice.RestAPI.DynamicJson">
+        <test-method status="PASS" signature="addBookValidation(java.lang.String)[pri:0, instance:practice.RestAPI.DynamicJson@184f6be2]" name="addBookValidation" duration-ms="1540" started-at="2022-06-13T18:19:01 IST" data-provider="BooksData" finished-at="2022-06-13T18:19:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anim132]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBookValidation -->
+        <test-method status="PASS" signature="addBookValidation(java.lang.String)[pri:0, instance:practice.RestAPI.DynamicJson@184f6be2]" name="addBookValidation" duration-ms="157" started-at="2022-06-13T18:19:03 IST" data-provider="BooksData" finished-at="2022-06-13T18:19:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anim133]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBookValidation -->
+      </class> <!-- practice.RestAPI.DynamicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
